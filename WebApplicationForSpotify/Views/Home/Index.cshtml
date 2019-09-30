@@ -1,0 +1,33 @@
+﻿@{
+    var signin = ViewBag.Signin ?? false;
+    ViewData["Title"] = "Home Page";
+}
+@section scripts {
+    <script>
+        var img = new Array("~/images/banner1.svg", "~/images/banner2.svg", "~/images/banner3.svg");
+        window.addEventListener('load', function () {
+            //$('#animationContainer').removeClass("background1");
+            //$("#animationContainer").addClass("background2");
+        });
+
+        $('#animationContainer').on('transitionend', function (e) {
+            if ($('#animationContainer').hasClass("background1")) {
+                $('#animationContainer').removeClass("background1");
+                $("#animationContainer").addClass("background2");
+            }
+            if ($('#animationContainer').hasClass("background2")) {
+                $('#animationContainer').removeClass("background2");
+                $("#animationContainer").addClass("background3");
+            }
+            if ($('#animationContainer').hasClass("background3")) {
+                $('#animationContainer').removeClass("background3");
+                $("#animationContainer").addClass("background1");
+            }
+        });
+/**/</script>
+}
+<div class="row">
+    <div class="col-md-12">
+        <div id="animationContainer" class="imageBackground background1">■</div>
+    </div>
+</div>

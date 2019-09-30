@@ -1,0 +1,27 @@
+<svg width="1140" height="360" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.fil0:hover {
+    fill: #4B4B4B;
+  }
+  .fnt0 {
+    font-size: 70px;
+    font-family: 'Segoe UI Semibold', 'Segoe UI';
+    text-decoration: none;
+  }
+  .backgroundGradient {
+    background:linear-gradient(rgba(255, 0, 0, 0), #D9E5FF);
+    border-bottom:thin solid #D9E5FF;
+    border-right:thin solid #D9E5FF;
+    padding-left:10px;
+    border-radius: 10px;
+  }</style>
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="1142" height="362" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m0,0l1140,0l0,360l-1140,0l0,-360z" fill="#da70d6"/>
+  <text fill="white" class="fnt0" id="svg_6" y="200" x="100" stroke="null">Spotify Web API Object Model</text>
+ </g>
+</svg>

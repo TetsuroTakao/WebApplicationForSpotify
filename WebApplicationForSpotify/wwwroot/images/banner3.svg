@@ -1,0 +1,22 @@
+<svg width="1140" height="360" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.fil0:hover {
+    fill: #4B4B4B;
+  }
+  .fnt0 {
+    font-size: 100px;
+    font-family: 'Segoe UI Semibold', 'Segoe UI';
+    text-decoration: none;
+  }</style>
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="1142" height="362" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#8b008b" d="m0,0l1140,0l0,360l-1140,0l0,-360z" id="svg_1"/>
+  <g id="svg_9" stroke="null">
+   <text fill="white" class="fnt0" id="svg_6" y="200" x="184.023804" stroke="null">Excel on OneDrive</text>
+  </g>
+ </g>
+</svg>

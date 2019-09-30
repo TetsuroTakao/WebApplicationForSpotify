@@ -1,0 +1,11 @@
+{
+  "ClientId": "1qOYkcjhePes7FBYAm0m73uVsMuARW0rEweEUSx3zAIkrWCG9zWaXEC2oP8TP4lH",
+  "ClientSecret": "Sa8pMssIvr3pGNDo4fvOvPoVlmlWGuFD2noMjTVWSogkrWCG9zWaXEC2oP8TP4lH",
+  "AesCryptoServiceProvider Key": "yDBwSNlVzCN9HGqaY/cgag==",
+  "AesCryptoServiceProvider IV": "TCLlnPZ6gpWw9H0oj459ZQ==",
+  "SpotifyYaml": "raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/spotify.com/v1/swagger.yaml",
+  "LogFilePath": "log.json",
+  "LocalWeb": "localhost:8888",
+  "SpotifyClasses": "",
+  "SpotifyToken": ""
+}
